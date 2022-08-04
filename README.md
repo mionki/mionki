@@ -11,7 +11,8 @@ I am a Full-stack Software developer. I love coding and tech generally
 - 👯 I’m looking to collaborate on cloud computing projects
 - 💬 Ask me anything :smiley:
 - 📫 Reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pius-mionki-96955218a)
-&nbsp;
+&nbsp; 
+Email: [Piousmionki@gmail.com](https://www.gmail.com)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mionki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
