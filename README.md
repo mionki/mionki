@@ -4,6 +4,9 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mionki.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pius-mionki-96955218a)
 &nbsp;
