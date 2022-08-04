@@ -5,6 +5,11 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mionki.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 Reach me:
