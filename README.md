@@ -21,9 +21,8 @@ I am a Full-stack Software developer. I love coding and tech generally
 <!--START_SECTION:waka-->
 
 ```text
-SQL        4 hrs 18 mins   █████████████░░░░░░░░░░░░   51.85 %
-Python     3 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.15 %
-Other      26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+SQL        4 hrs 18 mins   ██████████████████████▒░░   89.63 %
+Other      26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
 ```
 
 <!--END_SECTION:waka-->
