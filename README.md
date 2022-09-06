@@ -21,12 +21,12 @@ I am a Full-stack Software developer. I love coding and tech generally
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 31 mins    █████████▒░░░░░░░░░░░░░░░   37.56 %
-JSON         1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   30.03 %
-YAML         44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-JavaScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JavaScript   2 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   43.03 %
+TypeScript   1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+JSON         37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
+SQL          22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+YAML         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
