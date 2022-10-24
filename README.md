@@ -21,8 +21,9 @@ I am a Full-stack Software developer. I love coding and tech generally
 <!--START_SECTION:waka-->
 
 ```text
-HTML   9 mins          ███████████████▒░░░░░░░░░   60.99 %
-CSS    5 mins          █████████▓░░░░░░░░░░░░░░░   39.01 %
+JavaScript   26 mins         █████████████▓░░░░░░░░░░░   54.06 %
+HTML         16 mins         ████████▓░░░░░░░░░░░░░░░░   34.16 %
+CSS          5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 ```
 
 <!--END_SECTION:waka-->
