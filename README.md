@@ -21,8 +21,7 @@ I am a Full-stack Software developer. I love coding and tech generally
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   1 hr 3 mins     ███████████████████████▓░   94.93 %
-Other       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
