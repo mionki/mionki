@@ -20,7 +20,7 @@ I am a Full-stack Software developer. I love coding and tech generally
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
