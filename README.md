@@ -21,9 +21,9 @@ I am a Full-stack Software developer. I love coding and tech generally
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 2 mins     ██████████████████▒░░░░░░   73.77 %
-YAML     19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-MQL      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Python   1 hr 2 mins     █████████████████████░░░░   83.67 %
+YAML     9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+MQL      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
