@@ -2,13 +2,11 @@
 
 ## **Welcome To My Area!**
 
-I am a Full-stack Software developer. I love coding and tech generally
+I am a Devops engineer. I love coding and I'm passionate about automation
 
 ### About:
 
-- 🔭 I’m currently working on a House listing Web application
-- 🌱 I’m currently learning configuring AWS cloudwatch logs
-- 👯 I’m looking to collaborate on cloud computing projects
+- 👯 I’m happy to collaborate
 - 💬 Ask me anything :smiley:
 - 📫 Reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pius-mionki-96955218a)
 &nbsp; 
