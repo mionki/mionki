@@ -18,7 +18,8 @@ I am a Devops engineer. I love coding and I'm passionate about automation
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   0 secs          ██████████████▓░░░░░░░░░░   58.32 %
+YAML     0 secs          ██████████▒░░░░░░░░░░░░░░   41.68 %
 ```
 
 <!--END_SECTION:waka-->
