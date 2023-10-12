@@ -18,8 +18,10 @@ I am a Devops engineer. I love coding and I'm passionate about automation
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          ██████████████▓░░░░░░░░░░   58.32 %
-YAML     0 secs          ██████████▒░░░░░░░░░░░░░░   41.68 %
+JavaScript   3 mins          █████████████████████▓░░░   87.14 %
+Python       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
