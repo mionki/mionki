@@ -9,7 +9,7 @@ I am a Devops engineer. I love coding and I'm passionate about automation
 - 💬 Ask me anything :smiley:
 - 📫 Reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pius-mionki-96955218a)
 &nbsp; 
-:inbox_tray:Email: [Piousmionki@gmail.com](https://www.gmail.com)
+  Email: [Piousmionki@gmail.com](https://www.gmail.com)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mionki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
