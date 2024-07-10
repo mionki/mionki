@@ -7,7 +7,7 @@ I am a Devops engineer. I love coding and I'm passionate about automation
 
 - 👯 I’m happy to collaborate
 - 💬 Ask me anything :smiley:
-- 📫 Reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pius-mionki-96955218a)
+- 📫 Reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pius-mionki-a76164297/)
 &nbsp; 
   Email: [Piousmionki@gmail.com](https://www.gmail.com)
 
